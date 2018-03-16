@@ -1,0 +1,407 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+
+header img {
+	text-align: center !important;
+}
+
+
+
+
+.gform_body h2 {
+	font-size: 16px !important;
+	font-weight: 600 !important;
+	line-height: 1.4em !important;
+}
+
+
+#gform_wrapper_1 {
+	visibility:hidden;
+	font-family: 'Open Sans', sans-serif !important;
+	max-width: 800px !important;
+	margin:auto !important;
+	
+}
+
+
+
+.gform_title {
+	display:none !important;
+}
+
+.ginput_container_select {
+	/*width:80px !important;
+	padding-right: 20px !important;
+	float: left !important;*/
+	
+}
+
+.gfield_select {
+	text-align: center !important;
+	width: 100% !important;
+	margin-top: 5px !important;
+	min-width: 80px !important;
+}
+
+.gfield_label {
+	/*float: right !important;
+	width: 50% !important;*/
+	/*font-weight: normal !important;*/
+	font-size: 16px !important;
+    font-weight: 500 !important;
+}
+
+.ginput_container_text {
+	/*float: left !important;
+	width: 50% !important;
+	max-width: 300px !important;*/
+}
+
+.otro {
+	/*float: left !important;
+	width: 300px !important;
+	max-width: 300px !important;*/
+}
+
+.otro label {
+	/*float: left !important;*/
+	width: 100px !important;
+	/*max-width: 300px !important;*/
+}
+
+.otro label {
+	/*float: left !important;*/
+	width: 100px !important;
+	/*max-width: 300px !important;*/
+}
+
+.otro .ginput_container_text {
+	margin-left:-60px !important;
+}
+
+.gform_page_footer {
+	text-align: right;
+}
+
+.mensaje_error .gfield_label, .mensaje_error .ginput_container_textarea {
+	display:none !important;
+}
+
+.validation_message {
+	font-size: 16px !important;
+}
+
+.validation_error {
+	display:none !important;
+}
+
+.btn-default {
+	margin-left: 0;
+    margin-top: 20px;
+    padding: 5px;
+	background-color: #f0f0f0;
+	border-color: #9a9a9a !important;
+}
+
+.gf_progressbar_wrapper h3.gf_progressbar_title {
+    font-size: 18px !important;
+    font-weight: bold;
+	color: #3c8f3a !important;
+}
+
+.gf_progressbar {
+	
+    background-image: none !important;
+	background-color: #ecfbd4 !important;
+}
+
+.DNI {
+	width: 250px !important;
+}
+
+.DNI input {
+	padding:8px !important;
+}
+
+.separador {
+	border-top: 1px dotted #ccc;
+    clear: both;
+    margin-top: 40px;
+    padding: 5px 0 0;
+    width: 99%;
+}
+
+.encabezado {
+	margin-top: 40px !important;
+}
+
+
+.imagen_cabecera {
+	clear: none !important;
+	float: left !important;
+}
+
+.texto_cabecera {
+	float: left !important;
+	clear: none !important;
+}
+
+.gfield_checkbox label {
+	font-weight: 400 !important;
+}
+
+#input_2_6_3 {
+	width: 100% !important;
+}
+
+.mensaje_error textarea {
+	display: none !important;
+}
+
+#gform_previous_button_2 {
+	width: 45% !important;
+}
+
+#gform_submit_button_2 {
+	width: 45% !important;
+}
+
+
+.ginput_container_radio {
+	clear:both;
+}
+
+label {
+    font-weight: normal !important;
+}
+
+
+@media (min-width: 1px) {
+
+	.post-header {
+		margin: 20px 0 !important;
+	}
+	
+	.post-header h1 {
+		margin: 20px auto 20px !important;
+		text-align: left;
+		font-weight: 700 !important;
+		font-size: 22px !important;
+	}
+	
+	.post-header h2 {
+		font-size: 16px !important;
+	}
+	
+	.post-content h1 {
+		font-size: 22px !important;
+	}
+	.col-xs-10 {
+		width:100% !important;
+	}
+	.col-xs-push-2 {
+		left: 0 !important;
+	}
+	
+	.col-xs-pull-10 {
+		right: 0 !important;
+		left: 33% !important;
+		margin-bottom: 25px;
+	}
+	
+	.gfield_label {
+		font-size: 16px !important;
+		font-weight: 500 !important;		
+		border-top: 1px solid #efefef;
+		padding-top: 10px;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	
+	.btn-default {
+		display: block;
+		margin: auto !important;
+		padding: 10px;
+	}
+	
+	.email input {
+		width:90% !important;
+	}
+	
+	.gform_page_footer input {
+		padding: 15px !important;
+	}
+	
+	.ginput_container_select {
+		text-align: center;
+		width:100%;
+		padding:0 !important;
+		position: static !important;
+	}
+	
+	.col-xs-2 {
+		float: none !important;
+		width: 100% !important;
+	}
+	
+	.ginput_container_select select {
+		width:110px !important;
+		padding:5px;
+	}
+	
+	.post-content {
+		margin: 20px 5px !important;
+	}
+	
+	.su-spoiler-content img {
+		max-width: 130px !important;
+	}
+	
+	
+	.stat_contenedor {
+		background-color: #ffffff;
+		padding: 0;
+		text-align: center;
+		width: 100%;
+		padding: 0;
+	}
+
+	.stat_contenedor_plaza {
+		background-color: #ffffff;
+		border: 2px solid #ccc;
+		margin: 10px auto 30px;
+		padding: 13px;
+		text-align: center;
+		width: 100%;
+	}
+
+	.stat_nombre_plaza {
+		font-size: 22px;
+		text-align: center;
+		font-weight: 700;
+		background-color: #c6d9eb;
+		padding: 8px;
+	}
+
+	.stat_imagen {
+		text-align: center;
+	}
+
+	.stat_imagen_contenedor {
+		margin: auto;
+		position: relative;
+		width: 75%;
+		max-width: 500px;
+		margin: 0 auto 0 auto;
+	}
+
+	.stat_imagen img{
+		width: 100%;
+		max-width: 500px;
+	}
+
+	.stat_lupa {
+		position: absolute;
+		bottom: 2%;
+		right: 5%;
+		width: 10%;
+		
+	}
+
+	.stat_lupa img {
+		width: 100%;
+		max-width: 200px;
+		min-width: 25px;
+	}
+
+
+	.stat_contenedor_datos {
+		display:inline-block; 
+		width: auto; margin: 10px auto;
+		background-color: #fff;
+		padding: 0px 10px;
+		font-size: 16px;
+		font-weight: 400; 
+		text-align: left;
+		/*border: 1px solid #ccc;*/
+	}
+
+	.stat_novalida {
+		width: 100%; 
+		padding: 5px;
+		background-color: 
+		#ff1100; color: #fff;font-size: 12px;
+		text-align: center; 
+		font-weight: 700; 
+		margin: 15px auto;
+	}
+
+
+	.stat_dato {
+		border-bottom: 1px solid #ccc;
+		
+	}
+	
+	.stat_dato_enunciado {
+		font-size: 12px;
+	}
+	
+	.stat_dato_valor {
+		font-size: 12px;
+	}
+	
+	.stat_googlechart {
+		border: 1px solid #ccc;
+		margin: 15px auto ;
+		width: 90%; height: 200px;
+	}
+	
+	.stat_imagen_plaza_big {
+		padding: 10px !important;
+		margin: 0 !important;
+	}
+
+	.stat_table_datos {
+		border: 0 !important;
+	}
+
+	.stat_table_datos td {
+		vertical-align:middle !important;
+		padding: 5px;
+		border-bottom: 1px solid #ccc !important;
+		border-top: 0 !important;
+		border-left: 0 !important;
+		border-right: 0 !important;
+	}
+	
+	.stat_contenedor_combo {
+		margin: 10px auto;
+		text-align: center;
+		width: 80%;
+	}
+
+	.stat_contenedor_combo select {
+		font-size: 14px;
+	}
+	
+	.stat_subir {
+		text-align: center;
+		padding-right: 10px;
+	}
+
+	.stat_boton_subir {
+		font-size: 16px !important;
+	}
+	
+	.stat_titulo {
+		font-size: 14px;
+		font-weight: 700;
+	}
+	
+	.stat_combo_plazas {
+		text-align: center;
+		font-size: 18px;
+	}
+
+	
+
+}
