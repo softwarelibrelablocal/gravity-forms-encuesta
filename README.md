@@ -14,4 +14,4 @@ Este plugin es un ejemplo de utilización de formulario de Gravity Forms añadie
 4. Creé una nueva página (o post) e inserte el **shortcode** del formulario de Gravity importado.
 5. Cambie las urls de las imágenes representativas en los elementos HTML del formulario:
 Ej: <img src="/presupuestos/wp-content/uploads/2016/01/PRESUPUESTOS-OTROS.jpg">
-<div style="clear:both; margin-bottom: 30px;"></div>.
+<div style="clear:both; margin-bottom: 30px;"></div>
