@@ -13,3 +13,4 @@ ejemplo muestra una consulta sobre los presupuestos donde el ciudadano puede asi
 5. Cambie las urls de las imágenes representativas en los elementos HTML del formulario:
 Ej: <img src="/presupuestos/wp-content/uploads/2016/01/PRESUPUESTOS-OTROS.jpg">
 <div style="clear:both; margin-bottom: 30px;"></div>.
+ 
