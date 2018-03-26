@@ -1,4 +1,6 @@
-ejemplo muestra una consulta sobre los presupuestos donde el ciudadano puede asignar prioridades de entre varias opciones.
+# Ejemplo de inscripción Gravity Form Presupuesto #
+
+Este plugin es un ejemplo de utilización de formulario de Gravity Forms añadiendo nueva funcionalidad. El ejemplo muestra una consulta sobre los presupuestos donde el ciudadano puede asignar prioridades de entre varias opciones.
 
 ### Requisitos ###
 
